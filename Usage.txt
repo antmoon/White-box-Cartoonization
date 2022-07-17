@@ -1,0 +1,2 @@
+Before running, you have to install tf_slim first, to avoid the running error: ModuleNotFoundError: No module named 'tensorflow.contrib'
+pip install tf_slim
